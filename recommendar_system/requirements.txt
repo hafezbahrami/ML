@@ -1,0 +1,23 @@
+# python -m ipykernel install --user --name=<my_env_name>    to include the virtual env for jupyter 
+Pillow
+future
+
+tensorboard>=1.14
+torch>=1.2
+torchvision>=0.4
+cmake
+dlib
+PySuperTuxKart
+imageio
+imageio-ffmpeg
+
+ray
+# -----------------
+ipython
+matplotlib
+numpy
+pandas
+sklearn
+graphviz
+pydotplus
+seaborn 
